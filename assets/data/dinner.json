@@ -1,0 +1,8 @@
+{
+    "dinner": 
+      [
+          {"food": "Veg salad","price": "5.5","calories":"180"},
+          {"food": "Curry","price": "7.5","calories":"190"},
+          {"food": "Palse","price": "9.0","calories":"200"}
+    ]
+}

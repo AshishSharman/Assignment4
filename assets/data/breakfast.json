@@ -1,0 +1,8 @@
+{
+    "breakfast": 
+      [
+          {"food": "Potato mash","price": "2.5","calories":"100"},
+          {"food": "Bread & Butter","price": "1.5","calories":"90"},
+          {"food": "Hamburger","price": "6.0","calories":"200"}
+    ]
+}
